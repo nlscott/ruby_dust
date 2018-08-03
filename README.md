@@ -2,4 +2,4 @@
 
 A darker ruby syntax for Sublime
 
-![A screenshot of your theme](https://raw.githubusercontent.com/nlscott/python-stero/master/python-stero.png)
+![A screenshot of your theme](https://raw.githubusercontent.com/nlscott/ruby_dust/master/ruby_dust.png)
